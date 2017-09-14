@@ -7,7 +7,7 @@
 	"variants": [
 		{   "name": "Run",
 			"shell": true,
-			"cmd": ["moon", "$file_name"]
+			"cmd": ["moon", "$file"]
 		},
 		{   "name": "moonc: show output",
 			"shell": true,
