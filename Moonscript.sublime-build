@@ -11,7 +11,7 @@
 		},
 		{   "name": "moonc: show output",
 			"shell": true,
-			"cmd": ["moonc", "-p", "$file_name"]
+			"cmd": ["moonc", "-p", "$file"]
 		},
 		{   "name": "love: run project",
 			"shell": true,
